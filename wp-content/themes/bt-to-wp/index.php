@@ -46,6 +46,8 @@
     <!-- About Section -->
     <section class="success" id="about">
         <div class="container">
+
+            <?php  ?>
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>About</h2>
